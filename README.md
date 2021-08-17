@@ -1,24 +1,11 @@
-# Project name here
-> Summary description here.
+# Utils for music21
+> To make it work the way I wish it did.
 
-
-This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install music21utils`
 
 ## How to use
 
 Fill me in please! Don't forget code examples:
-
-```
-1+1
-```
-
-
-
-
-    2
-
-
